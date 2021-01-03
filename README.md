@@ -2,9 +2,13 @@
 
 [Netlify](https://dreamy-bell-3c6247.netlify.app)
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## React Course Followed
+[FCC Youtube](https://youtu.be/4UZrsTqkcW4)
 
 ## Available Scripts
 
